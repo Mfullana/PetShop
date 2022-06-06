@@ -1,0 +1,81 @@
+/* Fotter*/
+.fotter {
+    background-color: #3C2313;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.subtitulo {
+    font-size: 10px;
+    line-height: 12px;
+    color: #8A8787;
+}
+.derechos {
+    background-color:#222222;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.header {
+    background-color: #222222;;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    color: #F3F3F3;
+}
+.header2{
+    background-color: #F0A83E;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+.placer {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #3C2313;
+}
+.caja {
+    position: relative;
+    display:inline-block;
+    text-align: center;
+}
+.texto1{
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3C2313;
+    top: 5%;
+    left: 44%;
+    
+}
+.texto2{
+    position: absolute;
+    background-color: #F0A83E;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    top: 10%;
+    left: 47%;
+}
